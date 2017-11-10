@@ -21,7 +21,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
     /**
         图片显示不全的原因：
          1，要么图片尺寸不对

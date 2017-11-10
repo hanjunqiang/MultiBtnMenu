@@ -21,6 +21,7 @@
 @property (nonatomic, assign) JQDeuceMenuStyle style; //平分方向
 
 @property (nonatomic, assign) CGFloat jq_lineWH; //平分按钮的宽/高
+
 @end
 
 @implementation JQDeuceMenu
