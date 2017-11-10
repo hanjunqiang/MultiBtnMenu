@@ -1,0 +1,8 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target '多个按钮菜单切换' do
+
+pod 'Masonry', '~> 1.0.2'
+
+end
